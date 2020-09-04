@@ -1,7 +1,4 @@
 from flask import Flask, request, render_template
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
 import pickle
 
 classifier = pickle.load(open('Logistic Regression.pkl','rb'))
