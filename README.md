@@ -63,11 +63,11 @@ It is the process of reducing a word to its stem(or root).
 
 ## Deployment
 ## To Do
-* Add heroku app link in the demo section
-* Add desciprtion to Tokenization and Stemming
-* Add EDA ipython notebook
-* Add all the plots Plots
-* Add Model Performance
+* Add heroku app link in the demo section.
+* Add desciprtion to Tokenization and Stemming.
+* Add EDA ipython notebook.
+* Add all the plots.
+* Add Model Performance.
 ## License
 
 ### [MIT License](https://github.com/deepankarAnand98/Sentiment_Analysis_IMDB_Movies_Reviews/blob/master/LICENSE)
