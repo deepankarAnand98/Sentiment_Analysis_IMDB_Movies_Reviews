@@ -10,7 +10,6 @@
 * [Deployment](#deployment)
 * [To do](#to-do)
 * [License](#license)
-* [Credits](#credits)
 
 ## Demo
 ## Overview
@@ -64,9 +63,13 @@ It is the process of reducing a word to its stem(or root).
 
 ## Deployment
 ## To Do
+* Add heroku app link in the demo section
 * Add desciprtion to Tokenization and Stemming
 * Add EDA ipython notebook
 * Add all the plots Plots
+* Add Model Performance
 ## License
 
-## Credits
+### [MIT License](https://github.com/deepankarAnand98/Sentiment_Analysis_IMDB_Movies_Reviews/blob/master/LICENSE)
+
+Copyright (c) 2020 deepankarAnand98
