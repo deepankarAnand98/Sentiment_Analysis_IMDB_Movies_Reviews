@@ -44,23 +44,9 @@ Then I applied **Tokenization** and **Stemming** to each tweet.
 **Tokenization**  
 It is the process of breaking down text into smaller pieces known as tokens.
 
-*Example code*  
-`# Tokenize a paragraph  `  
-`from nltk.tokenize import sent_tokenize  `  
-`para = ['This is a sentence. A sentence consists of a noun object and a verb.]`  
-`chunks = sent_tokenize(para)`  
-`print(chunks)`  
-**Output**  
-`['This is a sentence.',`  
-`'A sentence consists of a noun object and a verb.']`
-
-`# Tokenize a sentence  `  
-`from nltk.tokenize import word_tokenize  `  
-`sen = 'This is a sentence. A sentence consists of a noun object and a verb.`  
-`chunks = sent_tokenize(sen)`  
-`print(chunks)`  
-**Output**  
-`['This', 'is', 'a', 'sentence', '.', 'A', 'sentence', 'consists', 'of', 'a', 'noun', 'object', 'and', 'a', 'verb', '.']`
+**Stemming**
+It is the process of reducing a word to its stem(or root).
+> Stem word for runner and running is run.  
 
 
 
