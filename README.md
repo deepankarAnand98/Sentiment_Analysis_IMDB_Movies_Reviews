@@ -1,17 +1,13 @@
 # Sentiment_Analysis_IMDB_Movies_Reviews
 ## Table of Contents
-* [Demo](#demo)
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [Intallation Steps](#installation-steps)
 * [Dataset Description](#dataset-description)
 * [Data Preprocessing](#data-preprocessing) 
 * [Model Building](#model-preprocessing)
-* [Deployment](#deployment)
-* [To do](#to-do)
 * [License](#license)
 
-## Demo
 ## Overview
 <p style='text-align: justify;'>This is a sentiment analysis project. The aim of the project is to classify movie reviews as either positive or negative. I have used [nltk](https://www.nltk.org/) for data preprocessing and scikit-learn implementation of tf-idf algorithm for feature extractiion. The models used for classification are Logistic Regression, XGBoost and Naive Bayes. The reultant model with the least f1_score is used for predictions. GridSearchCV is used for hypertuning each of the three models. The project is deployed using flask on heroku.</p>
 
@@ -61,14 +57,7 @@ It is the process of reducing a word to its stem(or root).
 * **XGBoost**
 
 
-## Deployment
-## To Do
-* Add heroku app link in the demo section.
-* Add desciprtion to Tokenization and Stemming.
-* Add EDA ipython notebook.
-* Add all the plots.
-* Add Model Performance.
-## License
+### License
 
 ### [MIT License](https://github.com/deepankarAnand98/Sentiment_Analysis_IMDB_Movies_Reviews/blob/master/LICENSE)
 
